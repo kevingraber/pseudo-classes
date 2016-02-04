@@ -12,7 +12,7 @@ button:active {
 }
 
 p::first-letter {
-	background-color: black;
+	background-color: red;
 	font-size:50px;
 	color:white;
 }
@@ -21,3 +21,4 @@ p::selection {
 	background-color:blue;
 	color:yellow;
 }
+
