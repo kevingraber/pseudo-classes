@@ -22,3 +22,16 @@ p::selection {
 	color:yellow;
 }
 
+.rounded {
+	border: 2px solid black;
+	border-radius: 6px;
+}
+
+.shadow {
+	border: 2px solid black;
+	box-shadow: 3px 3px blue;
+}
+
+.text-shadow {
+	text-shadow: 2px 2px red;
+}
