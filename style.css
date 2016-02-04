@@ -1,0 +1,23 @@
+button {
+	width:200px;
+	height:100px;
+}
+
+button:hover {
+	background-color:red;
+}
+
+button:active {
+	font-size:20px;
+}
+
+p::first-letter {
+	background-color: black;
+	font-size:50px;
+	color:white;
+}
+
+p::selection {
+	background-color:blue;
+	color:yellow;
+}
